@@ -1,0 +1,5 @@
+Greeting.create!(text: "Hello, World!")
+Greeting.create!(text: "¡Hola Mundo!")
+Greeting.create!(text: "Bonjour le monde!")
+Greeting.create!(text: "Hallo Welt!")
+Greeting.create!(text: "Ciao mondo!")
