@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Hello-world-backend</b></h3>
+  <h3><b>Hello-rails-backend</b></h3>
 
 </div>
 
@@ -11,7 +11,7 @@
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 Hello-world-backend ](#-hello-world-backend-)
+- [📖 Hello-rails-backend ](#-hello-rails-backend-)
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
@@ -31,9 +31,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Hello-world-backend <a name="about-project"></a>
+# 📖 Hello-rails-backend <a name="about-project"></a>
 
-**Hello-world-backend** is a simple Rails API that create a table for storing messages and create 5 different greetings. The API is consumed by [Hello-React-Front-end](https://github.com/MohamedHNoor/hello-react-front-end/tree/feature-front-end).
+**Hello-rails-backend** is a simple Rails API that create a table for storing messages and create 5 different greetings. The API is consumed by [Hello-React-Front-end](https://github.com/demix007/hello-react-frontend).
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -94,7 +94,7 @@ Example commands:
 
 ```sh
   cd your-folder
-  git clone https://github.com/MohamedHNoor/Hello-world-backend.git
+  git clone git@github.com:demix007/hello-rails-backend.git
 ```
 
 ### Install
@@ -134,11 +134,11 @@ Example command:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Mohamed Hassan Noor**
+👤 **Ayodeji Abidemi**
 
-- GitHub: [@MohamedHNoor](https://github.com/MohamedHNoor)
-- Twitter: [@MohamedHNoor](https://twitter.com/MohamedHNoor)
-- LinkedIn: [@MohamedHNoor](https://www.linkedin.com/in/mohamedhnoor/)
+- GitHub: [![demix007](https://img.shields.io/badge/-demix007-white?logo=GitHub&logoColor=181717&style=plastic)](https://github.com/demix007)
+- Twitter: [![dat_dope_demix](https://img.shields.io/badge/-dat_dope_demix-blue?logo=Twitter&logoColor=skyBlue&style=plastic)](https://twitter.com/dat_dope_demix)
+- LinkedIn: [![ayodeji-abidemi](https://img.shields.io/badge/-AyodejiAbidemi-white?logo=LinkedIn&logoColor=181717&style=plastic)](https://linkedin.com/in/ayodeji-abidemi)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -146,8 +146,8 @@ Example command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [x] **Add more greetings**
 - [x] **Add styles**
+- [x] **Add more greetings**
 - [x] **Add Header**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -158,7 +158,7 @@ Example command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/MohamedHNoor/Hello-world-backend/issues).
+Feel free to check the [issues page](https://github.com/demix007/hello-rails-backend/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
